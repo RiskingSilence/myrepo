@@ -1,0 +1,60 @@
+#Amazon
+0.0.0.0 amazon.ae
+0.0.0.0 amazon.ca
+0.0.0.0 amazon.cn
+0.0.0.0 amazon.co.jp
+0.0.0.0 amazon.co.uk
+0.0.0.0 amazon.com
+0.0.0.0 amazon.com.au
+0.0.0.0 amazon.com.br
+0.0.0.0 amazon.com.mx
+0.0.0.0 amazon.com.tr
+0.0.0.0 amazon.de
+0.0.0.0 amazon.es
+0.0.0.0 amazon.fr
+0.0.0.0 amazon.in
+0.0.0.0 amazon.it
+0.0.0.0 amazon.nl
+0.0.0.0 amazon.sa
+0.0.0.0 amazon.sg
+0.0.0.0 amazon.pl
+0.0.0.0 amzn.ae
+0.0.0.0 amzn.com
+0.0.0.0 amzn.in
+0.0.0.0 amzn.sg
+
+#Disney
+0.0.0.0 disney-plus.net
+0.0.0.0 disneyplus.com
+0.0.0.0 disneyplus.disney.co.jp
+0.0.0.0 dssott.com
+0.0.0.0 dssott.com.c.footprint.net
+0.0.0.0 search-api-disney.bamgrid.com
+
+#Netflix
+0.0.0.0 netflix.com
+0.0.0.0 netflix.net
+0.0.0.0 nflxext.com
+0.0.0.0 nflximg.net
+0.0.0.0 nflxso.net
+0.0.0.0 nflxvideo.net
+
+#Youtube
+0.0.0.0 googlevideo.com
+0.0.0.0 youtu.be
+0.0.0.0 youtube
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 youtube.be
+0.0.0.0 youtube.co.uk
+0.0.0.0 youtube.com
+0.0.0.0 youtube.de
+0.0.0.0 youtube.fr
+0.0.0.0 youtube.googleapis.com
+0.0.0.0 youtube.nl
+0.0.0.0 youtube.pl
+0.0.0.0 youtubeeducation.com
+0.0.0.0 youtubegaming.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 youtubekids.com
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 ytimg.com
